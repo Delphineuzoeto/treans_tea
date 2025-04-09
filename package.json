@@ -1,0 +1,19 @@
+{
+    "name": "sep-transfer",
+    "version": "1.0.0",
+    "description": "sepolia transfer",
+    "main": "sep.js",
+    "scripts": {
+      "start": "node sep.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "dependencies": {
+      "dotenv": "^16.4.7",
+      "ethers": "^6.13.5"
+    }
+  }
+  
